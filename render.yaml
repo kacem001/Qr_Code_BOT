@@ -1,0 +1,4 @@
+build:
+  apt_packages:
+    - libzbar0
+    - libzbar-dev

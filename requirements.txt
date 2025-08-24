@@ -1,0 +1,5 @@
+python-telegram-bot
+qrcode
+opencv-python
+pyzbar
+numpy
